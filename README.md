@@ -1,4 +1,4 @@
-🛡️ Integrated Violence Detection System
+🛡️ Integrated Violence Detection System  
 Real-time Audio + Video Threat Detection using YOLO, Mediapipe & Deep Learning
 
 This project is a fusion of computer vision, sound analysis, and smart heuristics to detect violent behaviour in real time.
